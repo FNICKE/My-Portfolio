@@ -3,8 +3,8 @@ My Portfolio
 Deployment Link : https://fnicke.github.io/MY-PORTFOLIO-/
 
 
+**Feactures**
 
-1. Features of Your Portfolio
 a. Clean and Responsive Design
 
 HTML: Structure your content with semantic HTML5 elements like <header>, <section>, <footer>, etc.
@@ -33,7 +33,9 @@ g. Performance Optimization
 
 JavaScript: Optimize JavaScript to ensure your site loads quickly and runs smoothly.
 CSS: Minimize CSS and use efficient selectors to speed up rendering.
-2. Uses of Your Portfolio
+
+
+**Uses**
 a. Showcase Your Skills and Projects
 
 Your portfolio serves as a visual representation of your skills and experience. Include detailed case studies or examples of your work to demonstrate your abilities.
