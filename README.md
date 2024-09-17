@@ -3,7 +3,7 @@ My Portfolio
 Deployment Link : https://fnicke.github.io/MY-PORTFOLIO-/
 
 
-**Feactures**
+**Feactures**<br>
 
 a. Clean and Responsive Design
 
@@ -35,7 +35,9 @@ JavaScript: Optimize JavaScript to ensure your site loads quickly and runs smoot
 CSS: Minimize CSS and use efficient selectors to speed up rendering.
 
 
-**Uses**
+**Uses**<br>
+
+
 a. Showcase Your Skills and Projects
 
 Your portfolio serves as a visual representation of your skills and experience. Include detailed case studies or examples of your work to demonstrate your abilities.
