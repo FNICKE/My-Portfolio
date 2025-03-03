@@ -1,6 +1,6 @@
 # 🌟 MY PORTFOLIO
 
-🚀 **Deployment Link:** [Click Here to Visit](https://fnicke.github.io/MY-PORTFOLIO-/)
+🚀 **Deployment Link:** [Click Here to Visit](https://fnicke.github.io/My-Portfolio/?#)
 
 ---
 
@@ -93,7 +93,7 @@
 ---
 
 ## 🌍 **Connect with Me**
-📌 **Portfolio:** [Visit My Site](https://fnicke.github.io/MY-PORTFOLIO-/)  
+📌 **Portfolio:** [Visit My Site](https://fnicke.github.io/My-Portfolio/?#)  
 📌 **GitHub:** [FNICKE](https://github.com/FNICKE)  
 📌 **LinkedIn:** [Sachin Rathod](https://www.linkedin.com/in/sachin-rathod-469168310/)  
 📌 **Twitter:** [Your Handle](#)  
