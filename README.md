@@ -96,7 +96,6 @@
 📌 **Portfolio:** [Visit My Site](https://fnicke.github.io/My-Portfolio/?#)  
 📌 **GitHub:** [FNICKE](https://github.com/FNICKE)  
 📌 **LinkedIn:** [Sachin Rathod](https://www.linkedin.com/in/sachin-rathod-469168310/)  
-📌 **Twitter:** [Your Handle](#)  
 📌 **Email:** rathodsachin0766@gmail.com  
 
 ---
