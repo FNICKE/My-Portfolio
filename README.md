@@ -62,8 +62,8 @@
 ---
 
 ## 🚀 **Technology Stack**
-🔹 **HTML5** – Semantic structure & SEO-friendly tags.  
-🔹 **CSS3** – Responsive styling with animations.  
+🔹 **HTML** – Semantic structure & SEO-friendly tags.  
+🔹 **CSS** – Responsive styling with animations.  
 🔹 **JavaScript (ES6+)** – Interactive components & form validation.  
 🔹 **React.js (Optional)** – Smooth SPA transitions & dynamic UI.  
 🔹 **Bootstrap/Tailwind** – Pre-styled components for faster development.  
